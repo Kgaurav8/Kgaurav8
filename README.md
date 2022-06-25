@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kashmir Gaurav
-- 👀 I’m interested in cloud and DevOps technology.
+- 👀 I’m cloud and DevOps enthusiast.
 - 🌱 I’m currently learning the AWS, Kubernetes and its advanced concepts
 - 💞️ I’m looking forward to learn and share the knowledge on new technologies.
 <!---
